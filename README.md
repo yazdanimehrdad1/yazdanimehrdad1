@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello! I'm Mehrdad Yazdani. 
 
-<!--
-**yazdanimehrdad1/yazdanimehrdad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My background is electrical engineer with interest in computer engineering. I am looking forward to exploring new opportunities as a software engineer. I recently graduated from Coding Dojo bootcamp leraning the following technologies.
 
-Here are some ideas to get you started:
+Skills:
+- Web Fundamentals (HTML, CSS, JavaScript, JQuery)
+- Python Stack (MySQL, Django with SQLite, AJAX, API)
+- MERN Stack (Javascript, React, Express, MongoDB, OOP & Class Components, Socket)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am also a graduate student graduating in Spring 2022, and my thesis is on application of reinforcement learning in microgrid management. 
+Skills:
+- Python, PySpark, PyTorch, Numpy, Pandas
