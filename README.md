@@ -9,5 +9,6 @@ Skills:
 
 
 I am also a graduate student graduating in Spring 2022, and my thesis is on application of reinforcement learning in microgrid management. 
+
 Skills:
 - Python, PySpark, PyTorch, Numpy, Pandas
